@@ -1,6 +1,6 @@
 
 import trafico1 from '../assets/Images/trafico1.jpg'
-import trafico2 from '../assets/Images/trafico2.JPG'
+import trafico2 from '../assets/Images/trafico2.jpg'
 import trafico3 from '../assets/Images/trafico3.jpg'
 import trafico4 from '../assets/Images/trafico4.jpeg'
 
